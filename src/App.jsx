@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="">
       <Structure />
-      {username === '' ? <Nameform /> : <Homepage />}
+      {username === '' ? <Nameform username={username} setUsername={setUsername} /> : <Homepage />}
     </div>
   );
 }

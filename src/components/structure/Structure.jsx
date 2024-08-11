@@ -30,7 +30,7 @@ const structure = () => {
           alt=""
         />
       </div>
-      <div className="absolute flex justify-between w-full px-24 left-0 bottom-20">
+      <div className="absolute flex justify-between w-full px-16 left-0 bottom-10">
         <img
           className="h-28"
           src="https://cdn.prod.website-files.com/65ef0d86eff3b9ba6b18aef9/6601a44ad564d4d03ce8f94f_Object1.svg"
